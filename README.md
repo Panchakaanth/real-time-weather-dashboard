@@ -52,4 +52,4 @@ https://www.weatherapi.com/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Panchakaanth/real-time-weather-dashboard.git
